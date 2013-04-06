@@ -3,7 +3,8 @@ gitmath
 
 Performs Code Churn Analysis on Git using R
 
-Relates to 'Use of Relative Code Churn Measures to Predict System Defect Density'
+Relates to 'Use of Relative Code Churn Measures to Predict System Defect Density':  
+https://research.microsoft.com/pubs/69126/icse05churn.pdf
 
 Instructions
 ===================
