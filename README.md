@@ -11,7 +11,7 @@ Instructions
 Usage example:
 
 ```{r }
-#source('/Users/noah/src/boundary/git-math/gitMath.R')
+#source('gitMath.R')
 #gs <- mkchurnline()    #lines, churn, churn/lines
 #OR
 #mkreport()             #generates report of top values, all and a plot of top values
