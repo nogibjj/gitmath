@@ -2,6 +2,7 @@ gitmath
 =======
 
 Performs Code Churn Analysis on Git using R
+
 Relates to 'Use of Relative Code Churn Measures to Predict System Defect Density'
 
 Instructions
