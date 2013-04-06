@@ -8,6 +8,8 @@ Relates to 'Use of Relative Code Churn Measures to Predict System Defect Density
 Instructions
 ===================
 
+Requires R to be installed.  Run R then perform steps below:
+
 Usage example:
 
 ```{r }
