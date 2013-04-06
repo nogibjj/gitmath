@@ -20,3 +20,7 @@ Usage example:
 #gitMathAll.txt and gitMathtop.txt is created in current working directory
 #also creates pdf called topchurn.pdf
 ```
+
+Here is an example of a report generated from the Rails repo:
+
+![Abalone](https://raw.github.com/noahgift/gitmath/master/docs/rails-churn.png)
